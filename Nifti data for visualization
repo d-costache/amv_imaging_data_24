@@ -21,18 +21,18 @@ Nifti data for the AMV Project "Image Visualization" Tab in the Dash App
 .nrrd tumor segmentation data for the Dash App
 | File Name | Download Link |
 |-----------|---------------|
-|0456_Segmentation.seg.nrrd|https://drive.google.com/file/d/100YDNpluNohd9YJ8GwrAjGT_9ZrH-YDd/view?usp=drive_link|
-|0351_Segmentation.seg.nrrd|https://drive.google.com/file/d/1FyxAtNuyVf-ukK9wfHV-ZI3sRslcGXw7/view?usp=drive_link|
-|0303_Segmentation.seg.nrrd|https://drive.google.com/file/d/1Jmei4K0cB9dYkvUijHdaMDm16Jc_Hvsk/view?usp=drive_link|
-|0302_Segmentation.seg.nrrd|https://drive.google.com/file/d/1VCf1fdZ8DBgdlHOsl-lZO53NeSLW9rH8/view?usp=drive_link|
-|0277_Segmentation.seg.nrrd|https://drive.google.com/file/d/1Ptqn_YPa_xuNXfmL1rZiYPQl_wgJGwu3/view?usp=drive_link|
-|0268_Segmentation.seg.nrrd|https://drive.google.com/file/d/1swXPIA5adI_6cW332i0uUSF09tL-yK98/view?usp=drive_link|
-|0263_Segmentation.seg.nrrd|https://drive.google.com/file/d/12YjB5JXPsESR16hJk8Jwc9_rG2uv6m7P/view?usp=drive_link|
-|0249_Segmentation.seg.nrrd|https://drive.google.com/file/d/1Np4BGkkZdON2-F6a27ZWRrGSwUJXm0y7/view?usp=drive_link|
-|0234_Segmentation.seg.nrrd|https://drive.google.com/file/d/1-x4OOb3MKpiR2qlhO5RU55LZ9sc49tgt/view?usp=drive_link|
-|0232_Segmentation.seg.nrrd|https://drive.google.com/file/d/1c3HUqHLMn20x-3HyNkPO-rBhH0zr40ri/view?usp=drive_link|
-|0061_Segmentation.seg.nrrd|https://drive.google.com/file/d/17Wzmb4zYAeVAbsRgtM7aFYkhRApE4wVa/view?usp=drive_link|
-|0045_Segmentation.seg.nrrd|https://drive.google.com/file/d/11khbpRzfhDVAiuzgTR37XrI9hTRTaSht/view?usp=drive_link|
-|0044_Segmentation.seg.nrrd|https://drive.google.com/file/d/134awTKN1BVkAkBF_FTWFbFliKUSmF9Sc/view?usp=drive_link|
-|0031_Segmentation.seg.nrrd|https://drive.google.com/file/d/1RaxCmz3nY4cDi1NOUbJXqAbJdx9MP3py/view?usp=drive_link|
-|0021_Segmentation.seg.nrrd|https://drive.google.com/file/d/1NIDwH055CnhZtSN99hPgTDZ171MV4abJ/view?usp=drive_link|
+0456_Tumour.nrrd	https://drive.google.com/uc?export=download&id=1p60CVPd7SPJoOy9G1TAYobPfxDbeCtlF
+0351_Tumour.nrrd	https://drive.google.com/uc?export=download&id=1OsiUk3-gNIomWWMW7lOG93z0w4l7sbWo
+Patient0303 (T2).nrrd	https://drive.google.com/uc?export=download&id=1mPRAZ_IRkOF0Vobbcq_g-DDzNTzb4BIr
+0302_tumour.nrrd	https://drive.google.com/uc?export=download&id=1ie-mAB3y2N2CxQPrBcV7sUu6m9IDHkkF
+patient0277 T2 good.nrrd	https://drive.google.com/uc?export=download&id=1bzGMR31rRKm4cXmt6hKzuLnfpCFiCrWZ
+Patient0268 T2 good.nrrd	https://drive.google.com/uc?export=download&id=1TJEvmFh0onzQsTCqC8DKqS_oph8jeauv
+patient0263 t1 good.nrrd	https://drive.google.com/uc?export=download&id=1wjWZEGsqM7LFg9UBQcyMG2qyIQdXyJ-6
+patient0249 t1 good.nrrd	https://drive.google.com/uc?export=download&id=1JcLWuWope1S5lkr-_2b7I8s4eYVjJRt2
+0234_Tumour_D.nrrd	https://drive.google.com/uc?export=download&id=1u2hX4PJmqopHtfrBj1dd37eFHnnF9JZM
+0232_Tumour.nrrd	https://drive.google.com/uc?export=download&id=1w9XuJo_ZWFdkYPHS8rTJ-BhojF2_0we6
+061Tumor.nrrd	https://drive.google.com/uc?export=download&id=1px0RgtZkNfFpY8viTpmB-1ofkELqauYf
+tumor045T1.nrrd	https://drive.google.com/uc?export=download&id=1PaTrmQG8swiXrHnQ376b43zqE0LYAvM-
+Tumor044tiny.nrrd	https://drive.google.com/uc?export=download&id=19WKmXDopOjnSTtK9Mo9UkTOK5DiSrmVC
+Tumor031T2.nrrd	https://drive.google.com/uc?export=download&id=1qKB2Vbo4ugOm_oD7d6w1sozZyptwPyx9
+Tumor0021_1.nrrd	https://drive.google.com/uc?export=download&id=1dz63ym0HmZq2HG5tiMK94tSZs4VBhHY5
