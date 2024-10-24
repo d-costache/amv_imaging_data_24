@@ -16,3 +16,23 @@ Nifti data for the AMV Project "Image Visualization" Tab in the Dash App
 |UCSF-PDGM-0044_T2.nii.gz|https://drive.google.com/file/d/1x3qZ_faY1xs8wOvxm-EaVDUVmyKWk3VZ/view?usp=drive_link|
 |UCSF-PDGM-0031_T2.nii.gz|https://drive.google.com/file/d/17fkc9uZbU4TBgJvoHbPBlJPFmycGzZtT/view?usp=drive_link|
 |UCSF-PDGM-0021_T1.nii.gz|https://drive.google.com/file/d/1y1T05nrWasf3S0WwRwtJyNvhlrWINzak/view?usp=drive_link|
+
+
+.nrrd tumor segmentation data for the Dash App
+| File Name | Download Link |
+|-----------|---------------|
+|0456_Segmentation.seg.nrrd|https://drive.google.com/file/d/100YDNpluNohd9YJ8GwrAjGT_9ZrH-YDd/view?usp=drive_link|
+|0351_Segmentation.seg.nrrd|https://drive.google.com/file/d/1FyxAtNuyVf-ukK9wfHV-ZI3sRslcGXw7/view?usp=drive_link|
+|0303_Segmentation.seg.nrrd|https://drive.google.com/file/d/1Jmei4K0cB9dYkvUijHdaMDm16Jc_Hvsk/view?usp=drive_link|
+|0302_Segmentation.seg.nrrd|https://drive.google.com/file/d/1VCf1fdZ8DBgdlHOsl-lZO53NeSLW9rH8/view?usp=drive_link|
+|0277_Segmentation.seg.nrrd|https://drive.google.com/file/d/1Ptqn_YPa_xuNXfmL1rZiYPQl_wgJGwu3/view?usp=drive_link|
+|0268_Segmentation.seg.nrrd|https://drive.google.com/file/d/1swXPIA5adI_6cW332i0uUSF09tL-yK98/view?usp=drive_link|
+|0263_Segmentation.seg.nrrd|https://drive.google.com/file/d/12YjB5JXPsESR16hJk8Jwc9_rG2uv6m7P/view?usp=drive_link|
+|0249_Segmentation.seg.nrrd|https://drive.google.com/file/d/1Np4BGkkZdON2-F6a27ZWRrGSwUJXm0y7/view?usp=drive_link|
+|0234_Segmentation.seg.nrrd|https://drive.google.com/file/d/1-x4OOb3MKpiR2qlhO5RU55LZ9sc49tgt/view?usp=drive_link|
+|0232_Segmentation.seg.nrrd|https://drive.google.com/file/d/1c3HUqHLMn20x-3HyNkPO-rBhH0zr40ri/view?usp=drive_link|
+|0061_Segmentation.seg.nrrd|https://drive.google.com/file/d/17Wzmb4zYAeVAbsRgtM7aFYkhRApE4wVa/view?usp=drive_link|
+|0045_Segmentation.seg.nrrd|https://drive.google.com/file/d/11khbpRzfhDVAiuzgTR37XrI9hTRTaSht/view?usp=drive_link|
+|0044_Segmentation.seg.nrrd|https://drive.google.com/file/d/134awTKN1BVkAkBF_FTWFbFliKUSmF9Sc/view?usp=drive_link|
+|0031_Segmentation.seg.nrrd|https://drive.google.com/file/d/1RaxCmz3nY4cDi1NOUbJXqAbJdx9MP3py/view?usp=drive_link|
+|0021_Segmentation.seg.nrrd|https://drive.google.com/file/d/1NIDwH055CnhZtSN99hPgTDZ171MV4abJ/view?usp=drive_link|
