@@ -1,20 +1,20 @@
-Nifti data for the AMV Project "Image Visualization" Tab in the Dash App
-| File Name | Download Link |
-|-----------|---------------|
-|UCSF-PDGM-0456_T2.nii.gz|https://drive.google.com/file/d/1da-bQYuQCjrk04WglQjYxJFCAYSTmqDP/view?usp=drive_link|
-|UCSF-PDGM-0351_T2.nii.gz|https://drive.google.com/file/d/1yqNGZj5a4v1v56ToiH8LwZBfpxM9mby6/view?usp=drive_link|
-|UCSF-PDGM-0303_T2.nii.gz|https://drive.google.com/file/d/1GaOv2Was8PArM-pd9nojyHk2WwEpMixb/view?usp=drive_link|
-|UCSF-PDGM-0302_T2.nii.gz|https://drive.google.com/file/d/1-36yzkPncsXI502SiYikBb8SotILj6ey/view?usp=drive_link|
-|UCSF-PDGM-0277_T2.nii.gz|https://drive.google.com/file/d/1zc9KW0BsJGymDHLYlTZWFROwLGE6fG2s/view?usp=drive_link|
-|UCSF-PDGM-0268_T2.nii.gz|https://drive.google.com/file/d/1uW8zojLmAf01xvw7lk0M06h_zwRAzTcG/view?usp=drive_link|
-|UCSF-PDGM-0263_T1.nii.gz|https://drive.google.com/file/d/1o_n4q8Tz8U4g65-aGqQgzjHmw_q3TwCW/view?usp=drive_link|
-|UCSF-PDGM-0249_T1.nii.gz|https://drive.google.com/file/d/1J-jZpQePVK8RYUP751syvFS4GWNElNjC/view?usp=drive_link|
-|UCSF-PDGM-0234_T1.nii.gz|https://drive.google.com/file/d/12TWMFUjNmrzeR_LQ0l02cYYM9tJLsPio/view?usp=drive_link|
-|UCSF-PDGM-0232_T1.nii.gz|https://drive.google.com/file/d/1Ffbyyt1Fk3l3EXA-zLz95dewhFHkcWy1/view?usp=drive_link|
-|UCSF-PDGM-0061_T2.nii.gz|https://drive.google.com/file/d/1_M5SQs4b8jezBe6xuQN6QkjjPUUK5hq7/view?usp=drive_link|
-|UCSF-PDGM-0045_T1.nii.gz|https://drive.google.com/file/d/1xV8OpiaLG-M6L8ftD5nNBiG9Vp710aW2/view?usp=drive_link|
-|UCSF-PDGM-0044_T2.nii.gz|https://drive.google.com/file/d/1rZJJzAyv3JOtZVpWmj5iA3SOmVGEuCMT/view?usp=drive_link|
-|UCSF-PDGM-0031_T2.nii.gz|https://drive.google.com/file/d/1FgzyJWblHmAsClH-Nb8_b_G3CRoTUvux/view?usp=drive_link|
-|UCSF-PDGM-0021_T1.nii.gz|https://drive.google.com/file/d/1PIuIcrinpHZp4YSn5vM0JDPsvubg5kcL/view?usp=drive_link|
+## NIFTI Raw File Preview:
+Here is the NIFTI tumor segmentation data for the Dash App
 
-
+| File Name                           | Preview Image                                                                                                          |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| UCSF-PDGM-0456_T2.nii.gz            | ![UCSF-PDGM-0456_T2.nii.gz](https://drive.google.com/uc?export=view&id=1da-bQYuQCjrk04WglQjYxJFCAYSTmqDP)                |
+| UCSF-PDGM-0351_T2.nii.gz            | ![UCSF-PDGM-0351_T2.nii.gz](https://drive.google.com/uc?export=view&id=1yqNGZj5a4v1v56ToiH8LwZBfpxM9mby6)                |
+| UCSF-PDGM-0303_T2.nii.gz            | ![UCSF-PDGM-0303_T2.nii.gz](https://drive.google.com/uc?export=view&id=1GaOv2Was8PArM-pd9nojyHk2WwEpMixb)                |
+| UCSF-PDGM-0302_T2.nii.gz            | ![UCSF-PDGM-0302_T2.nii.gz](https://drive.google.com/uc?export=view&id=1-36yzkPncsXI502SiYikBb8SotILj6ey)                |
+| UCSF-PDGM-0277_T2.nii.gz            | ![UCSF-PDGM-0277_T2.nii.gz](https://drive.google.com/uc?export=view&id=1zc9KW0BsJGymDHLYlTZWFROwLGE6fG2s)                |
+| UCSF-PDGM-0268_T2.nii.gz            | ![UCSF-PDGM-0268_T2.nii.gz](https://drive.google.com/uc?export=view&id=1uW8zojLmAf01xvw7lk0M06h_zwRAzTcG)                |
+| UCSF-PDGM-0263_T1.nii.gz            | ![UCSF-PDGM-0263_T1.nii.gz](https://drive.google.com/uc?export=view&id=1o_n4q8Tz8U4g65-aGqQgzjHmw_q3TwCW)                |
+| UCSF-PDGM-0249_T1.nii.gz            | ![UCSF-PDGM-0249_T1.nii.gz](https://drive.google.com/uc?export=view&id=1J-jZpQePVK8RYUP751syvFS4GWNElNjC)                |
+| UCSF-PDGM-0234_T1.nii.gz            | ![UCSF-PDGM-0234_T1.nii.gz](https://drive.google.com/uc?export=view&id=12TWMFUjNmrzeR_LQ0l02cYYM9tJLsPio)                |
+| UCSF-PDGM-0232_T1.nii.gz            | ![UCSF-PDGM-0232_T1.nii.gz](https://drive.google.com/uc?export=view&id=1Ffbyyt1Fk3l3EXA-zLz95dewhFHkcWy1)                |
+| UCSF-PDGM-0061_T2.nii.gz            | ![UCSF-PDGM-0061_T2.nii.gz](https://drive.google.com/uc?export=view&id=1_M5SQs4b8jezBe6xuQN6QkjjPUUK5hq7)                |
+| UCSF-PDGM-0045_T1.nii.gz            | ![UCSF-PDGM-0045_T1.nii.gz](https://drive.google.com/uc?export=view&id=1xV8OpiaLG-M6L8ftD5nNBiG9Vp710aW2)                |
+| UCSF-PDGM-0044_T2.nii.gz            | ![UCSF-PDGM-0044_T2.nii.gz](https://drive.google.com/uc?export=view&id=1rZJJzAyv3JOtZVpWmj5iA3SOmVGEuCMT)                |
+| UCSF-PDGM-0031_T2.nii.gz            | ![UCSF-PDGM-0031_T2.nii.gz](https://drive.google.com/uc?export=view&id=1FgzyJWblHmAsClH-Nb8_b_G3CRoTUvux)                |
+| UCSF-PDGM-0021_T1.nii.gz            | ![UCSF-PDGM-0021_T1.nii.gz](https://drive.google.com/uc?export=view&id=1PIuIcrinpHZp4YSn5vM0JDPsvubg5kcL)                |
