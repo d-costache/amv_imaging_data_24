@@ -1,18 +1,20 @@
-.nrrd tumor segmentation data for the Dash App
-| File Name | Download Link |
-|-----------|---------------|
-|0456_Tumour.nrrd|https://drive.google.com/file/d/1LcNpV9P4V01UBlxnPx49lYSPARQXSqlR/view?usp=drive_link|
-|0351_tumour_again.nrrd|https://drive.google.com/file/d/15nNsDphA_o_UBcUwA7r33TmOFEiXvhn6/view?usp=drive_link|
-|Patient0303 (T2).nrrd|https://drive.google.com/file/d/1jAPZbq4jTlQjJAZhfflwxV5DB-jj7Y0K/view?usp=drive_link|
-|0302_tumour.nrrd|https://drive.google.com/file/d/1FmaGC4KfpT1bjin5sRvBv-wbvDGBykPG/view?usp=drive_link|
-|patient0277 T2 good.nrrd|https://drive.google.com/file/d/1h2N7_4sdsY68qbmck8hYtojyfX9nn7Td/view?usp=drive_link|
-|Patient0268 T2 good.nrrd|https://drive.google.com/file/d/1yTehCmjwZQt9AGOt8WyZ51FL79i_84MY/view?usp=drive_link|
-|patient0263 t1 good.nrrd|https://drive.google.com/file/d/1hWwybPxM9y1-lKL3AgZbEiwapeIB0VQ-/view?usp=drive_link|
-|patient0249 t1 good.nrrd|https://drive.google.com/file/d/1L-GlxQMi-lG8sJg0hCwMsjl3Qb0NB7Rx/view?usp=drive_link|
-|0234_Tumour_D.nrrd|https://drive.google.com/file/d/1H74nR64NinDF6QhlJrbVHruNCDDrUIWk/view?usp=drive_link|
-|0232_Tumour.nrrd|https://drive.google.com/file/d/1JPrNTggC1I2LS75x1iVfKeBxmWwM_0Zu/view?usp=drive_link|
-|061Tumor.nrrd|https://drive.google.com/file/d/1zLyg8cGo_vRf01PYL06JgpX1qiuoOZG3/view?usp=drive_link|
-|tumor045T1.nrrd|https://drive.google.com/file/d/1PkKIWWyrvXKRAa4LRAe_rLGQmAGzb2s7/view?usp=drive_link|
-|Tumor044tiny.nrrd|https://drive.google.com/file/d/18MDbLppbOGLIouA3y18gvT-VmYdgiPto/view?usp=drive_link|
-|Tumor031T2.nrrd|https://drive.google.com/file/d/1tCDVRavdrWX1gvAWP_xIoNjGNMSdZ0bs/view?usp=drive_link|
-|Tumor0021_1.nrrd|https://drive.google.com/file/d/1a-z5BGlGQaZeSIut5gsi6L4V2KxeDMcJ/view?usp=drive_link|
+## NRRD Raw File Preview:
+Here is the NRRD tumor segmentation data for the Dash App
+
+| File Name                         | Preview Image                                                                                                           |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 0456_Tumour.nrrd                  | ![0456_Tumour.nrrd](https://drive.google.com/uc?export=view&id=1LcNpV9P4V01UBlxnPx49lYSPARQXSqlR)                       |
+| 0351_tumour_again.nrrd            | ![0351_tumour_again.nrrd](https://drive.google.com/uc?export=view&id=15nNsDphA_o_UBcUwA7r33TmOFEiXvhn6)                   |
+| Patient0303 (T2).nrrd             | ![Patient0303 (T2).nrrd](https://drive.google.com/uc?export=view&id=1jAPZbq4jTlQjJAZhfflwxV5DB-jj7Y0K)                   |
+| 0302_tumour.nrrd                 | ![0302_tumour.nrrd](https://drive.google.com/uc?export=view&id=1FmaGC4KfpT1bjin5sRvBv-wbvDGBykPG)                       |
+| patient0277 T2 good.nrrd          | ![patient0277 T2 good.nrrd](https://drive.google.com/uc?export=view&id=1h2N7_4sdsY68qbmck8hYtojyfX9nn7Td)                |
+| Patient0268 T2 good.nrrd          | ![Patient0268 T2 good.nrrd](https://drive.google.com/uc?export=view&id=1yTehCmjwZQt9AGOt8WyZ51FL79i_84MY)                |
+| patient0263 t1 good.nrrd          | ![patient0263 t1 good.nrrd](https://drive.google.com/uc?export=view&id=1hWwybPxM9y1-lKL3AgZbEiwapeIB0VQ-)                |
+| patient0249 t1 good.nrrd          | ![patient0249 t1 good.nrrd](https://drive.google.com/uc?export=view&id=1L-GlxQMi-lG8sJg0hCwMsjl3Qb0NB7Rx)                |
+| 0234_Tumour_D.nrrd               | ![0234_Tumour_D.nrrd](https://drive.google.com/uc?export=view&id=1H74nR64NinDF6QhlJrbVHruNCDDrUIWk)                     |
+| 0232_Tumour.nrrd                 | ![0232_Tumour.nrrd](https://drive.google.com/uc?export=view&id=1JPrNTggC1I2LS75x1iVfKeBxmWwM_0Zu)                       |
+| 061Tumor.nrrd                     | ![061Tumor.nrrd](https://drive.google.com/uc?export=view&id=1zLyg8cGo_vRf01PYL06JgpX1qiuoOZG3)                          |
+| tumor045T1.nrrd                   | ![tumor045T1.nrrd](https://drive.google.com/uc?export=view&id=1PkKIWWyrvXKRAa4LRAe_rLGQmAGzb2s7)                        |
+| Tumor044tiny.nrrd                | ![Tumor044tiny.nrrd](https://drive.google.com/uc?export=view&id=18MDbLppbOGLIouA3y18gvT-VmYdgiPto)                       |
+| Tumor031T2.nrrd                  | ![Tumor031T2.nrrd](https://drive.google.com/uc?export=view&id=1tCDVRavdrWX1gvAWP_xIoNjGNMSdZ0bs)                        |
+| Tumor0021_1.nrrd                 | ![Tumor0021_1.nrrd](https://drive.google.com/uc?export=view&id=1a-z5BGlGQaZeSIut5gsi6L4V2KxeDMcJ)                       |
